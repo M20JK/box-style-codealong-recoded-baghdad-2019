@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # CSS Box Style Code Along
-=======
-# Code Along Exercise 5
->>>>>>> a6362aa42eeec87cc48e0ed78ef692c431b4cb50
 
 ## Overview
 
@@ -188,6 +184,4 @@ background: linear-gradient(
 ); /* W3C */
 ```
 
-After you finish, make sure you <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run. Then, type `learn` command from Terminal to run local tests.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-5' title='Code Along Exercise 5'>Code Along Exercise 5</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-5' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
